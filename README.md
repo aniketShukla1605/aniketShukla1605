@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=aniketShukla1605&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"When I wrote this code, only God and I understood what I did. Now only God knows."— Anonymous
 
 ---
 [![](https://komarev.com/ghpvc/?username=aniketShukla1605&icon=0&color=0)](https://visitcount.itsvg.in)
