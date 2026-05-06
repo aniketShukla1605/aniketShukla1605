@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aniketShukla1605&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 "When I wrote this code, only God and I understood what I did. Now only God knows."— Anonymous
 
 ### 🔝 Top Contributed Repo
