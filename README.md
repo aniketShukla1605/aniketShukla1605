@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **System Design and Scalable Architecture**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-phi-sage-j1pspvksm8.vercel.app/](https://portfolio-phi-sage-j1pspvksm8.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-phi-sage-j1pspvksm8.vercel.app/)
 
 - 💬 Ask me about **react, vite and Spring boot**
 
 - 📫 How to reach me **aniketshukla1605@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/dolfdzaf2/image/upload/v1779119513/MyResume_fzqh64.jpg](https://res.cloudinary.com/dolfdzaf2/image/upload/v1779119513/MyResume_fzqh64.jpg)
+- 📄 Know about my experiences [My Resume](https://res.cloudinary.com/dolfdzaf2/image/upload/v1779119513/MyResume_fzqh64.jpg)
 
 - ⚡ Fun fact **I genuinely enjoy debugging more than writing the initial code**
 
