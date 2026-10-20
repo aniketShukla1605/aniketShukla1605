@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aniketshukla1605@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://res.cloudinary.com/dolfdzaf2/image/upload/v1779119513/MyResume_fzqh64.jpg)
+- 📄 Know about my experiences [My Resume]([https://res.cloudinary.com/dolfdzaf2/image/upload/v1779119513/MyResume_fzqh64.jpg](https://collection.cloudinary.com/dolfdzaf2/7f5352ae3b8a544990210850ceb5b15d))
 
 - ⚡ Fun fact **I genuinely enjoy debugging more than writing the initial code**
 
