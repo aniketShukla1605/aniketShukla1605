@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **System Design and Scalable Architecture**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-phi-sage-j1pspvksm8.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-aniket-shukla.vercel.app/)
 
 - 💬 Ask me about **react, vite and Spring boot**
 
