@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketshukla1605" alt="aniketshukla1605" /></a> </p>
 
-- 🔭 I’m currently working on [Quiz Application](https://github.com/aniketShukla1605/Quiz_App_Backend)
-
 - 🌱 I’m currently learning **Docker and DevOps concepts**
 
 - 👯 I’m looking to collaborate on **Real World Web apps and Backend systems**
